@@ -8,9 +8,3 @@ Users should be able to:
 - See hover states for interactive elements
 
 ![](./Screenshot.png)
-
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
